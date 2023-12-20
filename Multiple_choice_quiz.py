@@ -22,3 +22,4 @@ def run_test(questions):
     print("You got " + str(score) + "/" + str(len(questions)) + " correct")
 
 run_test(questions)
+
